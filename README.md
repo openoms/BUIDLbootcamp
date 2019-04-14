@@ -21,10 +21,12 @@ Installed and working:
 ---
 To make a bootable image:  
 
-in Windows with VirtualBox installed, run this in Command Prompt (cmd.exe) or PowerShell: 
+in Windows with VirtualBox installed, run this in Command Prompt (cmd.exe) or PowerShell:  
 `C:\Program_Files\Oracle\VirtualBox\VBoxManage.exe" clonehd --format RAW Ubuntu18.04.01LTS.vdi RAW_Image_to_disk.img`  
 
 Burn the .img to a HDD/SSD/USB-drive with http://www.hddguru.com/software/HDD-Raw-Copy-Tool/.
+
+A 32 GB USB3.0 Drive is sufficient to start to run this setup. Can be always cloned to a bigger drive/HDD/SSD if needed.
 
 ---
 
