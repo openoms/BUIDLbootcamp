@@ -1,4 +1,4 @@
-## Ubuntu18.04.01LTS fro the BUIDL bootcamp
+## Ubuntu18.04.01LTS for the BUIDL bootcamp
 
 Download the prebuilt Ubuntu18.04.01LTS image (Ubuntu18.04.01LTS.zip):
 https://mega.nz/#F!JQ1S1KqT!nDiX3p9aCY-8DUvvmf-_mw?URt2WCAT
